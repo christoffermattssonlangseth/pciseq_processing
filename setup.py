@@ -1,5 +1,5 @@
 from setuptools import setup
-
+import setuptools
 
 setuptools.setup(
     name="pciseq_processing-christoffermattssonlangseth", 
@@ -7,7 +7,7 @@ setuptools.setup(
     author="Christoffer Mattsson Langseth",
     author_email="christoffer.langseth@scilifelab.se",
     description="Package to process data for pciseq and the ouput from pciseq",
-    long_description=long_description,
+    long_description="",
     long_description_content_type="text/markdown",
     url="https://github.com/christoffermattssonlangseth/pciseq_processing",
     packages=setuptools.find_packages(),

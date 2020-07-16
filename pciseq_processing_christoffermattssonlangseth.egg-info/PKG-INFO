@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: pciseq-processing-christoffermattssonlangseth
+Version: 0.0.1
+Summary: Package to process data for pciseq and the ouput from pciseq
+Home-page: https://github.com/christoffermattssonlangseth/pciseq_processing
+Author: Christoffer Mattsson Langseth
+Author-email: christoffer.langseth@scilifelab.se
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
